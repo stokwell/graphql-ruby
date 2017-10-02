@@ -35,6 +35,8 @@ gem 'rack-cors', :require => 'rack/cors'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 gem 'graphql'
+gem 'search_object'
+gem 'search_object_graphql'
 
 
 group :development, :test do
